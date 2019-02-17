@@ -5,14 +5,14 @@
     Here are the [diffs](https://github.com/bokkypoobah/TokenTrader/commit/376cdb1feccc4fb613daff9d6b0130b70cc942ce) of the fixed bug in in `TokenTraderFactory` and `TokenSellerFactory`
 
 2. Feb 14 2017 - [Bartosz Ocytko](https://github.com/bocytko) has found an overflow condition that allows the GNTTokenTrader, TokenTrader and TokenSeller contracts to exchange the tokens for very little ethers. The conditions for this situation to occur are very very unlikely as it requires:
-  * the ERC20 token supply to be at least `2^256 - 1`
-  * the Maker creates a TokenTrader or TokenSeller contract with `sellPrice = 2^256 - 1` and `units = 1`
-  * the Maker transfers `2^256 - 1` tokens to the newly created contract
+    * the ERC20 token supply to be at least `2^256 - 1`
+    * the Maker creates a TokenTrader or TokenSeller contract with `sellPrice = 2^256 - 1` and `units = 1`
+    * the Maker transfers `2^256 - 1` tokens to the newly created contract
 
-  **All** the existing GNTTokenTrader, TokenTrader and TokenSeller contracts as listed on the https://cryptoderivatives.market/ site are **safe** from the **overflow bug described above** as:
-  * The are no tokens with supply `2^256 - 1`
-  * If there was a token with supply `2^256 - 1`, it is even more unlikely that the Maker would own this whole amount
-  * The GNTTokenTrader, TokenTrader and TokenSeller with `sellPrice = 2^256 - 1` will automatically get filtered out from the existing "reasonableness" checks
+    **All** the existing GNTTokenTrader, TokenTrader and TokenSeller contracts as listed on the https://cryptoderivatives.market/ site are **safe** from the **overflow bug described above** as:
+    * The are no tokens with supply `2^256 - 1`
+    * If there was a token with supply `2^256 - 1`, it is even more unlikely that the Maker would own this whole amount
+    * The GNTTokenTrader, TokenTrader and TokenSeller with `sellPrice = 2^256 - 1` will automatically get filtered out from the existing "reasonableness" checks
 
   Following is Ocytko's email detailing the overflow conditions:
   ![](https://github.com/bokkypoobah/TokenTrader/blob/master/doc/images/OcytkoEmail_20170212.png)
