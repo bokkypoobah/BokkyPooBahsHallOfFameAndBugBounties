@@ -46,6 +46,15 @@ BokkyPooBah is offering a 30 ETH bug bounty across the smart contracts in the fo
 
 <br />
 
+## Rules And Rewards
+
+* Bugs already submitted by another user, or are already known to the BokkyPooBah, are not eligible for bounty rewards
+* Public disclosure of a vulnerability makes it ineligible for a bounty
+* You can deploy the contracts on your private chain for bug hunting. Please respect the Ethereum Mainnet and Testnets and refrain from attacking them
+* The value of rewards paid out will depend on the severity of the bugs found. Determinations of this amount is at the sole and final discretion of the BokkyPooBah but the BokkyPooBah will try to be fair
+
+<br />
+
 ## Donations
 Additionally any donations to [0xb6dAC2C5A0222f6794265249ACE15568B750c2d1](https://etherscan.io/address/0xb6dAC2C5A0222f6794265249ACE15568B750c2d1) between the period of Jan to Jun 2019 will be added to this bug bounty program.
 
