@@ -34,7 +34,7 @@
 4. Feb 9 2018 - Audit by [Oleksii Matiiasevych](https://github.com/lastperson) identified a major bug
   [#5 Incorrect parameter passed to ApproveAndCallFallBack() function](https://github.com/bokkypoobah/BokkyPooBahsTokenTeleportationServiceSmartContract/issues/5) and has been awarded [15 ETH](https://etherscan.io/tx/0x7f8383321d39087f45a9fe3a113ae5fdf63905bf9ff06d5b98994841e18772a0).
 
-  <kbd><img src="images/Oleksii-6198746.jpg" /></kbd>
+    <kbd><img src="images/Oleksii-6198746.jpg" /></kbd>
 
 5. **{{Your Name Here?}}**
 
