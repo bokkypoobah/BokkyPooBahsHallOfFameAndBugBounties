@@ -14,10 +14,10 @@
     * If there was a token with supply `2^256 - 1`, it is even more unlikely that the Maker would own this whole amount
     * The GNTTokenTrader, TokenTrader and TokenSeller with `sellPrice = 2^256 - 1` will automatically get filtered out from the existing "reasonableness" checks
 
-  Following is Ocytko's email detailing the overflow conditions:
-  ![](https://github.com/bokkypoobah/TokenTrader/blob/master/doc/images/OcytkoEmail_20170212.png)
+    Following is Ocytko's email detailing the overflow conditions:
+    ![](https://github.com/bokkypoobah/TokenTrader/blob/master/doc/images/OcytkoEmail_20170212.png)
 
-  For his efforts of pointing out this condition and suggesting a fix, [40 ETH](https://etherscan.io/tx/0x4ddb60659cee7ef4c65616325c1f31fcba8787fa9a751f5480770c498e7c999d) has been awarded to Bartosz. Thanks Bartosz for auditing the contracts and helping keep it safe!
+    For his efforts of pointing out this condition and suggesting a fix, [40 ETH](https://etherscan.io/tx/0x4ddb60659cee7ef4c65616325c1f31fcba8787fa9a751f5480770c498e7c999d) has been awarded to Bartosz. Thanks Bartosz for auditing the contracts and helping keep it safe!
 
 3. Sep 23 2017 - [softestcore](https://www.reddit.com/user/softestcore) found a "minor" vulnerability in a separate bug bounty and has been awarded [3 ETH](https://etherscan.io/tx/0x3b39db0e4e9cec0804bc5199c3d24a6b8b856910e29954c9a30712a12ebb539c). Details will be included after the upstream owners of the source have been fully informed and have had time to rectify this issue if necessary.
 
