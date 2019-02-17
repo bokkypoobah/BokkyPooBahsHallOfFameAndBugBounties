@@ -1,6 +1,4 @@
-# BokkyPooBah's Hall Of Fame
-
-<kbd><img src="images/PrincessLeiaPeachExpelsARainbowBigBang2-940x198.png" /></kbd>
+<kbd><img src="images/PrincessLeiaPeachExpelsARainbowBigBang-BokkyPooBahsHallOfFame-940x198.png" /></kbd>
 
 <br />
 
