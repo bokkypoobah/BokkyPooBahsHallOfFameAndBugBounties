@@ -61,7 +61,7 @@ Any donations to [0xb6dAC2C5A0222f6794265249ACE15568B750c2d1](https://etherscan.
 
 If you want to support the development of decentralised applications, please consider donating to the address above.
 
-Alternatively, consider donating to the [Decentralised Future Fund][https://dffdao.org/] multisig at [0xb5fbae0361855617c58EF95a186889f0122e6642](https://etherscan.io/address/0xb5fbae0361855617c58EF95a186889f0122e6642) with funds used to promote decentralisation. In 2018, the DFF provided the funds for 10 individuals to attend conferences in Canada, the US and Europe.
+Alternatively, consider donating to the [Decentralised Future Fund](https://dffdao.org/) multisig at [0xb5fbae0361855617c58EF95a186889f0122e6642](https://etherscan.io/address/0xb5fbae0361855617c58EF95a186889f0122e6642) with funds used to promote decentralisation. In 2018, the DFF provided the funds for 10 individuals to attend [EdCon 2018](https://2018.edcon.io/), [Consensus 2018](https://www.coindesk.com/events/consensus-2018), the [Web3 Summit](https://www.web3summit.com/) and [Devcon4](https://devcon4.ethereum.org/) conferences.
 
 <br >
 
