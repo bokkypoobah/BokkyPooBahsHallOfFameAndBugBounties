@@ -57,9 +57,17 @@ Bok Consulting Pty Ltd is offering a 30 ETH bug bounty across the smart contract
 
 ## Donations
 
-Additionally any donations to [0xb6dAC2C5A0222f6794265249ACE15568B750c2d1](https://etherscan.io/address/0xb6dAC2C5A0222f6794265249ACE15568B750c2d1) between the period of Jan to Jun 2019 will be added to this bug bounty program.
+Any donations to [0xb6dAC2C5A0222f6794265249ACE15568B750c2d1](https://etherscan.io/address/0xb6dAC2C5A0222f6794265249ACE15568B750c2d1) between the period of Jan to Jun 2019 will be added to this bug bounty program.
 
-If you want to support the development of decentralised applications, please consider donating to the address above. Thanks!
+If you want to support the development of decentralised applications, please consider donating to the address above.
+
+Alternatively, consider donating to the [Decentralised Future Fund][https://dffdao.org/] multisig at [0xb5fbae0361855617c58EF95a186889f0122e6642](https://etherscan.io/address/0xb5fbae0361855617c58EF95a186889f0122e6642) with funds used to promote decentralisation. In 2018, the DFF provided the funds for 10 individuals to attend conferences in Canada, the US and Europe.
+
+<br >
+
+And the following donations (thanks) are included in this bug bounty:
+
+* [5,000 POLY](https://etherscan.io/tx/0xc5a658ea13530513871744da85703655e601cf1924e311c50ac0410b1e915d26) from [PolymathNetwork](https://github.com/PolymathNetwork)
 
 <br />
 
