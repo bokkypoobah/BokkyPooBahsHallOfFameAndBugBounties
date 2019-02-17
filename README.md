@@ -30,7 +30,7 @@
 4. Feb 9 2018 - Audit by [Oleksii Matiiasevych](https://github.com/lastperson) identified a major bug
   [#5 Incorrect parameter passed to ApproveAndCallFallBack() function](https://github.com/bokkypoobah/BokkyPooBahsTokenTeleportationServiceSmartContract/issues/5) and has been awarded [15 ETH](https://etherscan.io/tx/0x7f8383321d39087f45a9fe3a113ae5fdf63905bf9ff06d5b98994841e18772a0).
 
-5. {{Your Name Here?}}
+5. **{{Your Name Here?}}**
 
 <br />
 
@@ -38,7 +38,7 @@
 
 # Active Bug Bounties
 
-BokkyPooBah is offering a 30 ETH bug bounty across the smart contracts in the following projects:
+Bok Consulting Pty Ltd is offering a 30 ETH bug bounty across the smart contracts in the following projects:
 
 * [BokkyPooBah's Gas-Efficient Solidity DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary)
 * [BokkyPooBah's Red-Black Binary Search Tree Library](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary)
