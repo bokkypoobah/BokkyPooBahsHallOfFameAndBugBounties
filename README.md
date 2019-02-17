@@ -1,5 +1,11 @@
 # BokkyPooBah's Hall Of Fame
 
+<kbd><img src="images/PrincessLeiaPeachExpelsARainbowBigBang2-940x198.png" /></kbd>
+
+<br />
+
+<hr />
+
 1. Feb 05 2017 - [/u/JonnyLatte](https://www.reddit.com/user/JonnyLatte), the original TokenTraderFactory author, has found a bug in the TokenTraderFactory code when it interacts with the [🦄 ‐ Unicorn](https://github.com/bokkypoobah/TokenTrader/wiki/🦄-‐-Unicorn) token where the natural unit is 1.
 
     Here are the [diffs](https://github.com/bokkypoobah/TokenTrader/commit/376cdb1feccc4fb613daff9d6b0130b70cc942ce) of the fixed bug in in `TokenTraderFactory` and `TokenSellerFactory`
