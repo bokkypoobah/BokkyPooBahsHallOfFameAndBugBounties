@@ -4,7 +4,7 @@
 
 <hr />
 
-# Hall Of Fame
+# BokkyPooBah's Hall Of Fame
 
 1. Feb 05 2017 - [/u/JonnyLatte](https://www.reddit.com/user/JonnyLatte), the original TokenTraderFactory author, has found a bug in the TokenTraderFactory code when it interacts with the [🦄 ‐ Unicorn](https://github.com/bokkypoobah/TokenTrader/wiki/🦄-‐-Unicorn) token where the natural unit is 1.
 
@@ -44,7 +44,12 @@ BokkyPooBah is offering a 30 ETH bug bounty across the smart contracts in the fo
 * [BokkyPooBah's Red-Black Binary Search Tree Library](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary)
 * [BokkyPooBah's Token Teleportation Service Smart Contract](https://github.com/bokkypoobah/BokkyPooBahsTokenTeleportationServiceSmartContract)
 
-Additionally any contributions to the 
+<br />
+
+## Donations
+Additionally any donations to [0xb6dAC2C5A0222f6794265249ACE15568B750c2d1](https://etherscan.io/address/0xb6dAC2C5A0222f6794265249ACE15568B750c2d1) between the period of Jan to Jun 2019 will be added to this bug bounty program.
+
+If you want to support the development of decentralised applications, please consider donating to the address above. Thanks!
 
 <br />
 
