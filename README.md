@@ -4,6 +4,8 @@
 
 <hr />
 
+# Hall Of Fame
+
 1. Feb 05 2017 - [/u/JonnyLatte](https://www.reddit.com/user/JonnyLatte), the original TokenTraderFactory author, has found a bug in the TokenTraderFactory code when it interacts with the [🦄 ‐ Unicorn](https://github.com/bokkypoobah/TokenTrader/wiki/🦄-‐-Unicorn) token where the natural unit is 1.
 
     Here are the [diffs](https://github.com/bokkypoobah/TokenTrader/commit/376cdb1feccc4fb613daff9d6b0130b70cc942ce) of the fixed bug in in `TokenTraderFactory` and `TokenSellerFactory`
@@ -29,3 +31,25 @@
   [#5 Incorrect parameter passed to ApproveAndCallFallBack() function](https://github.com/bokkypoobah/BokkyPooBahsTokenTeleportationServiceSmartContract/issues/5) and has been awarded [15 ETH](https://etherscan.io/tx/0x7f8383321d39087f45a9fe3a113ae5fdf63905bf9ff06d5b98994841e18772a0).
 
 5. {{Your Name Here?}}
+
+<br />
+
+<hr />
+
+# Active Bug Bounties
+
+BokkyPooBah is offering a 30 ETH bug bounty across the smart contracts in the following projects:
+
+* [BokkyPooBah's Gas-Efficient Solidity DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary)
+* [BokkyPooBah's Red-Black Binary Search Tree Library](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary)
+* [BokkyPooBah's Token Teleportation Service Smart Contract](https://github.com/bokkypoobah/BokkyPooBahsTokenTeleportationServiceSmartContract)
+
+Additionally any contributions to the 
+
+<br />
+
+<br />
+
+Enjoy!
+
+(c) BokkyPooBah / Bok Consulting Pty Ltd - Feb 17 2019. The MIT Licence.
