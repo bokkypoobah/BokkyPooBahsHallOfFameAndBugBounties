@@ -36,7 +36,11 @@
 
     <kbd><img src="images/Oleksii-6198746.png" /></kbd>
 
-5. **{{Your Name Here?}}**
+5. Feb 25 2018 - [Rob Hitchens](https://github.com/rob-Hitchens) submitted a [set of performance and readability improvements](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary/pull/1) to [BokkyPooBah's Red-Black Binary Search Tree Library](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary).
+
+        <kbd><img src="images/RobHitchens-26111999.jpg" /></kbd>
+
+6. **{{Your Name Here?}}**
 
 <br />
 
@@ -83,4 +87,4 @@ And the following donations (thanks) are included in this bug bounty:
 
 Enjoy!
 
-(c) BokkyPooBah / Bok Consulting Pty Ltd - Feb 17 2019. The MIT Licence.
+(c) BokkyPooBah / Bok Consulting Pty Ltd - Feb 25 2019. The MIT Licence.
