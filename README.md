@@ -38,7 +38,7 @@
 
 5. Feb 25 2018 - [Rob Hitchens](https://github.com/rob-Hitchens) submitted a [set of performance and readability improvements](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary/pull/1) to [BokkyPooBah's Red-Black Binary Search Tree Library](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary).
 
-        <kbd><img src="images/RobHitchens-26111999.jpg" /></kbd>
+    <kbd><img src="images/RobHitchens-26111999.jpg" /></kbd>
 
 6. **{{Your Name Here?}}**
 
