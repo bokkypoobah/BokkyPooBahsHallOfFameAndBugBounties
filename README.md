@@ -36,7 +36,7 @@
 
     <kbd><img src="images/Oleksii-6198746.png" /></kbd>
 
-5. Feb 25 2018 - [Rob Hitchens](https://github.com/rob-Hitchens) submitted a [set of performance and readability improvements](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary/pull/1) to [BokkyPooBah's Red-Black Binary Search Tree Library](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary).
+5. Feb 25 2018 - [Rob Hitchens](https://github.com/rob-Hitchens) submitted a [set of performance and readability improvements](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary/pull/1) to [BokkyPooBah's Red-Black Binary Search Tree Library](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary) and has been awarded [5 ETH](https://etherscan.io/tx/0xdaeef0feb190cd19220d5e7a88d64348c05d9fe146ba4c43fc784261697c4a88).
 
     <kbd><img src="images/RobHitchens-26111999.jpg" /></kbd>
 
