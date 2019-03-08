@@ -87,4 +87,4 @@ And the following donations (thanks) are included in this bug bounty:
 
 Enjoy!
 
-(c) BokkyPooBah / Bok Consulting Pty Ltd - Feb 25 2019. The MIT Licence.
+(c) BokkyPooBah / Bok Consulting Pty Ltd - Mar 8 2019. The MIT Licence.
