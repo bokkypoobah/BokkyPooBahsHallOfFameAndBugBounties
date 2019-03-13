@@ -53,6 +53,7 @@ Bok Consulting Pty Ltd is offering a 30 ETH bug bounty across the smart contract
 * [BokkyPooBah's Red-Black Binary Search Tree Library](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary#bug-bounty-scope-and-donations)
 * [BokkyPooBah's Gas-Efficient Solidity DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary#bug-bounty-scope-and-donations)
 * [BokkyPooBah's Token Teleportation Service Smart Contract](https://github.com/bokkypoobah/BokkyPooBahsTokenTeleportationServiceSmartContract#bug-bounty-scope-and-donations)
+* [Fixed Supply Token 👊 Contract + Factory](https://github.com/bokkypoobah/FixedSupplyTokenFactory)
 
 Please DM any submissions to [BokkyPooBah @ Reddit](https://www.reddit.com/user/BokkyPooBah/) or [BokkyPooBah @ Twitter](https://twitter.com/BokkyPooBah).
 
@@ -87,4 +88,4 @@ And the following donations (thanks) are included in this bug bounty:
 
 Enjoy!
 
-(c) BokkyPooBah / Bok Consulting Pty Ltd - Mar 8 2019. The MIT Licence.
+(c) BokkyPooBah / Bok Consulting Pty Ltd - Mar 13 2019. The MIT Licence.
