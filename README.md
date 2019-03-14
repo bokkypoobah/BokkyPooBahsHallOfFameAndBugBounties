@@ -40,7 +40,16 @@
 
     <kbd><img src="images/RobHitchens-26111999.jpg" /></kbd>
 
-6. **{{Your Name Here?}}**
+6. Mar 14 2019 - [Steve Marx](https://github.com/smarx/) found an [Incorrect comment on fee refund #1](https://github.com/bokkypoobah/FixedSupplyTokenFactory/issues/1)
+
+    <kbd><img src="images/smarx-35551.jpg" /></kbd>
+
+7. Mar 14 2019 - [Alexey Pertsev](https://github.com/pertsev) queried potential malicious behaviour with `approveAndCall(...)` resulting in [Add warnings to `approveAndCall(...)` and `receiveApproval(...)` #2](https://github.com/bokkypoobah/FixedSupplyTokenFactory/issues/2). Alexey also provided minor [Cosmetics including `address payable` #3](https://github.com/bokkypoobah/FixedSupplyTokenFactory/issues/3) recommendations.
+
+    <kbd><img src="images/AlexeyPertsev-11399003.jpg" /></kbd>
+
+
+8. **{{Your Name Here?}}**
 
 <br />
 
